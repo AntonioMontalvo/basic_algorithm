@@ -18,4 +18,4 @@ function factorialize(num) {
   return result;
 }
 
-factorialize(5);
+console.log(factorialize(5);)
